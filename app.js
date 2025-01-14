@@ -1,6 +1,6 @@
 const people = [
-    { name: "Robana Kumari Shrestha", votes: 6, voters: ["Manjil Aryal", "Bipin Dawadi", "Reuel Rai", "Harish Chaisir", "Reena Khadka", "Mandip Shrestha"] },
-    { name: "Manjil Aryal", votes: 4, voters: ["Robana Kumari Shrestha", "Harish Chaisir", "Samipya Acharya", "Reuel Rai"] },
+    { name: "Robana Kumari Shrestha", votes: 7, voters: ["Manjil Aryal", "Bipin Dawadi", "Reuel Rai", "Harish Chaisir", "Reena Khadka", "Mandip Shrestha", "Aayush Giri"] },
+    { name: "Manjil Aryal", votes: 5, voters: ["Robana Kumari Shrestha", "Harish Chaisir", "Samipya Acharya", "Reuel Rai", "Aayush Giri"] },
     { name: "Shristi Budha Magar", votes: 4, voters: ["Rakshya Shrestha", "Reuel Rai", "Srestaa Shrestha", "Mandip Shrestha"] },
     { name: "Nikita Chaudhary", votes: 3, voters: ["Robana Kumari Shrestha", "Bipin Dawadi", "Mandip Shrestha"] },
     { name: "Aayush Giri", votes: 2, voters: ["Sandeep Lamichhane", "Samyog Sapkota"] },
@@ -9,12 +9,12 @@ const people = [
     { name: "Samipya Acharya", votes: 2, voters: ["Harish Chaisir", "Manjil Aryal"] },
     { name: "Avishek Sigel", votes: 1, voters: ["Umang Magar"] },
     { name: "Bipin Dawadi", votes: 1, voters: ["Sandeep Lamichhane"] },
+    { name: "Umang Magar", votes: 1, voters: ["Aayush Giri"] },
     { name: "Sudip Bhandari", votes: 0, voters: [] },
     { name: "Mandip Shrestha", votes: 0, voters: [] },
     { name: "Muskan Rajbanshi", votes: 0, voters: [] },
     { name: "Samyog Sapkota", votes: 0, voters: [] },
     { name: "Sandeep Lamichhane", votes: 0, voters: [] },
-    { name: "Umang Magar", votes: 0, voters: [] },
 ];
 
 const gallery = document.getElementById('gallery');
