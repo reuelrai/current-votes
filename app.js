@@ -4,7 +4,7 @@ const people = [
     { name: "Bipin Dawadi", votes: 1, voters: ["Sandeep Lamichhane"] },
     { name: "Harish Chaisir", votes: 2, voters: ["Samipya Acharya", "Manjil Aryal"] },
     { name: "Manjil Aryal", votes: 4, voters: ["Robana Kumari Shrestha", "Harish Chaisir", "Samipya Acharya", "Reuel Rai"] },
-    { name: "Nikita Chaudhary", votes: 2, voters: ["Robana Kumari Shrestha", "Bipin Dawadi"] },
+    { name: "Nikita Chaudhary", votes: 3, voters: ["Robana Kumari Shrestha", "Bipin Dawadi", "Mandip Shrestha"] },
     { name: "Reuel Rai", votes: 2, voters: ["Robana Kumari Shrestha", "Bipin Dawadi"] },
     { name: "Robana Kumari Shrestha", votes: 6, voters: ["Manjil Aryal", "Bipin Dawadi", "Reuel Rai", "Harish Chaisir", "Reena Khadka", "Mandip Shrestha"] },
     { name: "Samipya Acharya", votes: 2, voters: ["Harish Chaisir", "Manjil Aryal"] },
