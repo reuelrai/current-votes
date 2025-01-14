@@ -9,12 +9,12 @@ const people = [
     { name: "Samipya Acharya", votes: 2, voters: ["Harish Chaisir", "Manjil Aryal"] },
     { name: "Avishek Sigel", votes: 1, voters: ["Umang Magar"] },
     { name: "Bipin Dawadi", votes: 1, voters: ["Sandeep Lamichhane"] },
-    { name: "Sudip Bhandari", votes: , voters: [] },
-    { name: "Mandip Shrestha", votes: , voters: [] },
-    { name: "Muskan Rajbanshi", votes: , voters: [] },
-    { name: "Samyog Sapkota", votes: , voters: [] },
-    { name: "Sandeep Lamichhane", votes: , voters: [] },
-    { name: "Umang Magar", votes: , voters: [] },
+    { name: "Sudip Bhandari", votes: 0, voters: [] },
+    { name: "Mandip Shrestha", votes: 0, voters: [] },
+    { name: "Muskan Rajbanshi", votes: 0, voters: [] },
+    { name: "Samyog Sapkota", votes: 0, voters: [] },
+    { name: "Sandeep Lamichhane", votes: 0, voters: [] },
+    { name: "Umang Magar", votes: 0, voters: [] },
 ];
 
 const gallery = document.getElementById('gallery');
