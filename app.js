@@ -10,11 +10,11 @@ const people = [
     { name: "Avishek Sigel", votes: 1, voters: ["Umang Magar"] },
     { name: "Bipin Dawadi", votes: 1, voters: ["Sandeep Lamichhane"] },
     { name: "Umang Magar", votes: 1, voters: ["Aayush Giri"] },
-    { name: "Sudip Bhandari", votes: 0, voters: [] },
+    /*{ name: "Sudip Bhandari", votes: 0, voters: [] },
     { name: "Mandip Shrestha", votes: 0, voters: [] },
     { name: "Muskan Rajbanshi", votes: 0, voters: [] },
     { name: "Samyog Sapkota", votes: 0, voters: [] },
-    { name: "Sandeep Lamichhane", votes: 0, voters: [] },
+    { name: "Sandeep Lamichhane", votes: 0, voters: [] },*/
 ];
 
 const gallery = document.getElementById('gallery');
